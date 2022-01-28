@@ -1,0 +1,2 @@
+# firstDemo
+Items about Kaldi
